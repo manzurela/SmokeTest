@@ -12,6 +12,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 /**
  * Created by Manzur on 5/10/2015.
  */
+
+//this is new modification
 public class StepDefintions {
     WebDriver driver;
     @Given("^I am on facebook homepage$")
